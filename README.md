@@ -1,7 +1,8 @@
 ## Hi Guys 😊
 ## **Welcome to My Profile**
 ____
-<img src="https://github.com/KENZO-404/Axel-A.L/raw/Axel.A.L/Profile/iamaxel.gif" width="200" height="140" align="right">
+<img align="right" alt="GIF" height="125px" 
+src="https://github.com/KENZO-404/Axel-A.L/raw/Axel.A.L/Profile/iamaxel.gif" width="200" height="140" align="right">
 
 ## <a href="https://t.me/SyndicateTwenty4"> <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram" /></a>
    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KENZO-404)
