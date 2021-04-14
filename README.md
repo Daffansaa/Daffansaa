@@ -1,5 +1,5 @@
-## Hi Guys 😊
- **Welcome to My Profile**
+## Hi Guys 👋
+ **Welcome to My Profile 😊**
 ___
 <img align="right" alt="GIF" height="125px" 
 src="https://github.com/KENZO-404/Axel-A.L/raw/Axel.A.L/Profile/iamaxel.gif" width="200" height="140" align="right">
