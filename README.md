@@ -2,7 +2,7 @@
 
 <img src="https://github.com/KENZO-404/Axel-A.L/raw/Axel.A.L/Profile/iamaxel.gif" width="200" height="200" align="right">
 ____
-<a href="https://t.me/SyndicateTwenty4"> <img src="https://img.shields.io/badge/Telegram-red?style=social&logo=Telegram" /></a>
+<a href="https://t.me/SyndicateTwenty4"> <img src="https://img.shields.io/badge/Telegram-green?style=social&logo=Telegram" /></a>
 ![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=KENZO-404)
 ____
 
