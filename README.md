@@ -21,3 +21,10 @@ ___
 <a href="https://github.com/KENZO-404/Lynx-Userbot "> <img src="https://github-readme-stats.vercel.app/api?username=KENZO-404&show_icons=true&theme=blue-green" /></a>
 <a href="https://github.com/KENZO-404"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENZO-404&layout=compact&theme=blue-green" /></a>
 ----
+
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks For Visiting Me" width="100%" src="https://raw.githubusercontent.com/KENZO-404/KENZO-404/Axel.A.L/profile/marquee.svg" />
+<br />
