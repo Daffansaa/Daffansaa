@@ -13,7 +13,7 @@
 <a href="https://instagram.com/si_axeell" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
 <a href="https://t.me/SyndicateTwenty4" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=071A2C" alt="Telegram"/></a>
 
-<h1 align="center">ᴍʏ ᴘʀᴏꜰɪʟᴇ ᴏᴠᴇʀᴠɪᴇᴡꜱ ʜᴇʀᴇ :</h1>
+<h1 align="justify">ᴍʏ ᴘʀᴏꜰɪʟᴇ ᴏᴠᴇʀᴠɪᴇᴡꜱ ʜᴇʀᴇ :</h1>
 
 <h2 align="left">
     <abc>
