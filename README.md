@@ -18,6 +18,13 @@ ___
 ----
 **💻 My Profile Overview is Here 💻:**
 
+<h2 align="left">
+ <abc>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
+
+
 <a href="https://github.com/KENZO-404/Lynx-Userbot "> <img src="https://github-readme-stats.vercel.app/api?username=KENZO-404&show_icons=true&theme=blue-green" /></a>
 <a href="https://github.com/KENZO-404"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENZO-404&layout=compact&theme=blue-green" /></a>
 ----
