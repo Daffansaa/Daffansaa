@@ -20,7 +20,7 @@
     </abc>
 </h1>
 
-## 🖱️ Tools
+## 🖱️ Tools and More
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
 <a href="#"><img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/></a>
@@ -28,7 +28,9 @@
 <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/></a>
 <a href="#"><img alt="Codacy" src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/></a>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-<a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+<a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"></a>
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
