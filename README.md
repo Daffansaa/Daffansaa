@@ -1,7 +1,7 @@
 ## Hii 👋
                 Welcome to My Profile 😊
 <!-- Footer -->
-<div align="center">
+<div align="left">
 <img alt="Axel A.L" height="200" width="100%" src="https://github.com/KENZO-404/Axel-A.L/raw/Axel.A.L/Profile/iamaxel.gif" width="200" height="140" align="right">
 <br />
 
