@@ -26,5 +26,5 @@ ___
 
 <div align="center">
 
-<img height="120" alt="Thanks For Visiting Me" width="100%" src="https://raw.githubusercontent.com/KENZO-404/KENZO-404/Axel.A.L/profile/marquee.svg" />
+<img height="120" alt="Thanks For Visiting Me" width="100%" src="https://raw.githubusercontent.com/KENZO-404/KENZO-404/Axel.A.L/Profile/marquee.svg" />
 <br />
