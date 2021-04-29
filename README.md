@@ -9,12 +9,12 @@ src="https://github.com/KENZO-404/Axel-A.L/raw/Axel.A.L/Profile/iamaxel.gif" wid
 <a href="https://t.me/SyndicateTwenty4"> <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram" /></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KENZO-404)
 ___
-## **About Me**
+<h2 align="left">👨🏻‍💻 About Me :</h2>
 
-- 🙂 I'm Axel Alexius Latukolan.
+- 🙂 My Full Name **Axel Alexius Latukolan.**
 - ⌛ I'm 20 y'o.
 - 🐍 I'm Currently Learning Python Language.
-- ⚒️ I’m looking for help with Search Engine.
+- ⚒️ I’m Looking for Help with Search Engine.
 ----
 **💻 My Profile Overview is Here 💻:**
 
