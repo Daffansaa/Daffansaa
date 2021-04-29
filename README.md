@@ -7,13 +7,13 @@
 <img alt="Axel A.L" height="200" width="100%" 
 src="https://github.com/KENZO-404/Axel-A.L/raw/Axel.A.L/Profile/iamaxel.gif" width="200" height="140" align="right">
 
+___
 <h2 align="left">👨🏻‍💻 About Me :</h2>
-
 - 🙂 My Full Name **Axel Alexius Latukolan.**
 - ⌛ I'm 20 y'o.
 - 🐍 I'm Currently Learning Python Language.
 - ⚒️ I’m Looking for Help with Search Engine.
-----
+___
 <h2 align="left"> 📩 Contact Me</h2>
 <a href="https://instagram.com/si_axeell" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
 <a href="https://t.me/SyndicateTwenty4" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=071A2C" alt="Telegram"/></a>
