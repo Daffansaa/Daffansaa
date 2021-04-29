@@ -31,14 +31,14 @@ ___
     <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
-<p>
-
-
+</p>
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=KENZO-404&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 <p>
 <a href="https://github.com/KENZO-404"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENZO-404&layout=compact&theme=blue-green" /></a>
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <!-- Footer -->
 
