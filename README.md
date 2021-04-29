@@ -1,16 +1,16 @@
 ## Hii 👋
                 Welcome to My Profile 😊
----
 <!-- Footer -->
 <div align="center">
 <img alt="Axel A.L" height="200" width="100%" src="https://github.com/KENZO-404/Axel-A.L/raw/Axel.A.L/Profile/iamaxel.gif" width="200" height="140" align="right">
----
+<br />
 
 ## 👨🏻‍💻 About Me :
 * 🙂 My Full Name **Axel Alexius Latukolan.**
 * ⌛ I'm 20 y'o.
 * 🐍 I'm Currently Learning Python Language.
 * ⚒️ I’m Looking for Help with Search Engine.
+
 
 <h3 align="left"> 📩 Contact Me</h2>
 <a href="https://instagram.com/si_axeell" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
