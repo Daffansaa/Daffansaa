@@ -40,9 +40,12 @@
 <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=KENZO-404&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 <a href="https://github.com/KENZO-404"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENZO-404&layout=compact&theme=white" /></a>
 
+<div align="center">
+
 <!-- Footer -->
 
-<div align="center">
+![Visitor Count](https://profile-counter.glitch.me/KENZO-404/count.svg)
 
 <img height="120" alt="Thanks For Visiting Me" width="100%" src="https://raw.githubusercontent.com/KENZO-404/KENZO-404/Axel.A.L/Profile/marquee.svg" />
 <br />
+</div>
