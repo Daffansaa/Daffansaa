@@ -11,9 +11,8 @@
 𝙸’𝚖 𝙻𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝙷𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 𝚂𝚎𝚊𝚛𝚌𝚑 𝙴𝚗𝚐𝚒𝚗𝚎.”
 
 <h3 align="left">📩 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h3>
-<img align="center" <a href="https://instagram.com/si_axeell" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
-<img align="center" <a href="https://t.me/SyndicateTwenty4" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=071A2C" alt="Telegram"/></a>
-<img align="center" <a href="https://wa.me/+6285717663312" target="_blank"> <img src="https://img.shields.io/badge/Whatsapp-%23E4405F.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white&color=071A2C" alt="Whatsapp"/></a>
+<img align="center" <a href="https://instagram.com/daffansaa" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
+<img align="center" <a href="https://t.me/MadBoyys" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=071A2C" alt="Telegram"/></a>
 
 <h1 align="left"> ᴘʀᴏꜰɪʟᴇ ᴏᴠᴇʀᴠɪᴇᴡꜱ ʜᴇʀᴇ
     <abc>
