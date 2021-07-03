@@ -1,7 +1,7 @@
 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙈𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚
 <!-- Footer -->
 <div align="left">
-<img alt="DAPA" height="200" width="100%" src="https://github.com/Daffansaa/Daffansaa/raw/DAPA/Profile/iamaxel.gif" width="200" height="140" align="right">
+<img alt="DAPA" height="200" width="100%" src="https://github.com/Daffansaa/Daffansaa/raw/DAPA/Profile/Daffansaa[1].gif" width="200" height="140" align="right">
 <br />
 
 <h2 align="left">👨🏻‍💻 ᴀʙᴏᴜᴛ ᴍᴇ </h2>
