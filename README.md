@@ -28,6 +28,13 @@
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"></a>
+	
+## ☄️ Github Streaks.
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daffansaa&hide_border=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Daffansaa&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Daffansaa&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
 
 
 
