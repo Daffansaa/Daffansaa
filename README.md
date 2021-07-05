@@ -53,6 +53,8 @@
 
 <div align="center">
 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Daffansaa&repo=DAPA-UBOT&theme=dark)	
+	
 <!-- Footer -->
 
 
