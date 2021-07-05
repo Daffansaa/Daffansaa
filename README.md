@@ -9,11 +9,6 @@
 𝙸'𝚖 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙿𝚢𝚝𝚑𝚘𝚗 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 𝚊𝚗𝚍 𝙼𝚘𝚛𝚎.
 𝙸’𝚖 𝙻𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝙷𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 𝚂𝚎𝚊𝚛𝚌𝚑 𝙴𝚗𝚐𝚒𝚗𝚎.”
 
-<h3 align="left">📩 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h3>
-<img align="center" <a href="https://instagram.com/daffansaa" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
-<img align="center" <a href="https://t.me/MadBoyys" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=071A2C" alt="Telegram"/></a>
-
-
 ## <h1 align="center"> MY REPO USERBOT:
 
 # <h1 align="center">[<img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">](https://github.com/Daffansaa/DAPA-UBOT)
@@ -49,9 +44,17 @@
 <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Daffansaa&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 <a href="https://github.com/Daffansaa"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffansaa&layout=compact&theme=white" /></a>
 
+## <h3 align="left"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ : </h3>
+<p align="left"> <a href="https://instagram.com/Daffansaa" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&color=071A2C" alt="Instagram"/></a> </p>
+<p align="left"> <a href="https://t.me/MadBoyys" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=071A2C" alt="Telegram"/></a> </p>
+
+
+</details>
+
 <div align="center">
 
 <!-- Footer -->
+
 
 ![Visitor Count](https://profile-counter.glitch.me/Daffansaa/count.svg)
     
