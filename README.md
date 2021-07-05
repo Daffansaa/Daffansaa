@@ -55,7 +55,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Daffansaa/count.svg)
     
-<img height="120" alt="Makasi Udah Berkunjung Ngentot" width="100%" src="https://raw.githubusercontent.com/Daffansaa/Daffansaa/DAPA/Profile/marquee.svg" />
+<img height="120" alt="Thanks For Visiting Me" width="100%" src="https://raw.githubusercontent.com/Daffansaa/Daffansaa/DAPA/Profile/marquee.svg" />
 <br />
 </div>
 
