@@ -18,7 +18,7 @@
 </h1>
 <p align="center">
     <abc>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coder GIF" width="500">
     </abc>
 </h1>
 
